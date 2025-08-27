@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabia</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
-<h6 align="center"><li><a href="https://ranieci.itch.io/flappywitch" target="_blank">FlappyWitch</a>  is a short game about a witch and her cat.</li></h6>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ranieci&label=Profile%20views&color=0e75b6&style=flat" alt="ranieci" /> </p>
 <p align="center">
 </p>
