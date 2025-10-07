@@ -1,11 +1,9 @@
 <div align="center">
   
-# 💫 About Me:
-🔭 I’m working on Flappy Witch, a 2D side-scrolling game built with Unity.<br>👯 I’m looking to collaborate on indie game development and open-source Unity projects.<br>🤝 I’m looking for help with marketing indie games and improving game UI/UX design.<br>🌱 I’m currently learning advanced C# for game development and shader programming.<br>💬 Ask me about Unity game development, C#, and creating pixel-art games.<br>⚡ Fun fact: My game ideas often come from my dreams or random doodles.
+# 🌸 About Me:
+🔭 I’m working on Flappy Witch, a 2D side-scrolling game built with Unity.<br>👯 I’m looking to collaborate on indie game development and open-source Unity projects.<br>🌱 I’m currently learning advanced C# for game development.<br>💬 Ask me about Unity game development, C#, and creating pixel-art games.<br>⚡ Fun fact: My game ideas often come from my dreams or random doodles.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ranieci&label=Profile%20views&color=0e75b6&style=flat" alt="ranieci" /> </p>
-<p align="center">
-</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crazycompanygames) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rabia-ç) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Liawea) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@crazy.company.gam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@CrazyCompanyc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:crazycompanygames@gmail.com) 
