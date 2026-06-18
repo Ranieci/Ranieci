@@ -25,7 +25,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/crazycompanygames)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/rabia-ç)
 [![Reddit](https://img.shields.io/badge/Reddit-ff69b4?style=for-the-badge\&logo=Reddit\&logoColor=white)](https://reddit.com/user/Liawea)
-[![TikTok](https://img.shields.io/badge/TikTok-ff69b4?style=for-the-badge\&logo=TikTok\&logoColor=white)](https://tiktok.com/@crazy.company.gam)
+[![TikTok](https://img.shields.io/badge/TikTok-ff69b4?style=for-the-badge\&logo=TikTok\&logoColor=white)](https://tiktok.com/@crazy.company.game)
 [![X](https://img.shields.io/badge/X-ff69b4?style=for-the-badge\&logo=X\&logoColor=white)](https://x.com/@crazy.company.game)
 [![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:crazycompanygames@gmail.com)
 
